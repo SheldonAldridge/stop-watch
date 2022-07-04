@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    background-color: aqua;
+}
+
+.stopWatch{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(245, 0, 0);
+}
+
+.timer{
+    text-align: center;
+    margin-bottom: 5rem;
+    font-size: 50px;
+    color: rgb(245, 0, 0);
+}
+
+.buttons{
+    text-align: center;
+    
+}
+
+.start,.stop,.reset{
+    border: none;
+    border: 1px solid red;
+    width: 10rem;
+    height: 5rem;
+    background-color: aqua;
+    color: red;
+    font-size: 30px;
+}
+
+.stop,.reset{
+    margin-left:5rem;
+}
